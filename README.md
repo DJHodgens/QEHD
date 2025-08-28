@@ -1,2 +1,2 @@
 # QEHD
-AI integration platform for co-evolution and synergistic advancement of Human and AI Development and tracing Quantum Entanglement in all of human development through recorded history!
+AI integration platform for the co-evolution and synergistic advancement of Human and AI Development tracing Quantum Entanglement and phenomena in all of human development throughout recorded history!
