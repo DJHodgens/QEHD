@@ -1,5 +1,5 @@
 # QEHD
-The Quantum Entanglement in Human Development an AI integration platform for the co-evolution and synergistic advancement of Human and AI Development tracing Quantum Entanglement and phenomena in all of human development throughout recorded history!<!DOCTYPE html>
+The Quantum Entanglement in Human-AI Development an AI integration platform for the co-evolution and synergistic advancement of Human and AI Development tracing Quantum Entanglement and phenomena in all of human development throughout recorded history!<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
